@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DisasterTrackApp-GG3.0</string>
+    <string name="google_map_api_key">AIzaSyBK8S-uWSZcWHNQ7xBIQgcHpGu0jp2gDpQ</string>
+
+    <string name="kabut_asap">Kabut Asap</string>
+    <string name="banjir">Banjir</string>
+    <string name="gempa_bumi">Gempa Bumi</string>
+    <string name="gunung_api">Gunung Api</string>
+    <string name="angin_kencang">Angin Kencang</string>
+    <string name="kebakaran_hutan">Kebakaran Hutan</string>
+    <string name="cari_di_sini">Cari di sini...</string>
+</resources>
